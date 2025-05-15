@@ -1,4 +1,4 @@
-This project was created to fulfill the final assignment for our Operating Systems course. Through this tutorial, we learned how to write an operating system:https://github.com/ruiers/os-tutorial-cn
+This project was created to fulfill the final assignment for our Operating Systems course. Through this tutorial, we learned how to write an operating system:https://github.com/ruiers/os-tutorial-cn, in addition ,most of our code is modified from here. We hope to make some innovations and will develop NaiLongOS with this goal in mind.
 
 ```
   ___                   _   _       _ _                      
